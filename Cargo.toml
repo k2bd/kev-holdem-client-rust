@@ -1,0 +1,7 @@
+[package]
+name = "kev-holdem-client-rust"
+version = "0.1.0"
+authors = ["Kevin Duff <kevinkelduff@gmail.com>"]
+
+[dependencies]
+hyper = "0.11.10"
